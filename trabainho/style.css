@@ -1,0 +1,22 @@
+footer {
+	text-align: center;
+	background: url("Screenshot_8.png");
+	padding: 80px 0;
+}
+
+.copyright {
+	color: #ffffff;
+	font-size: 15px;
+}
+
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+
+.titulo-principal {
+	font-size: 2em;
+	clear: left;
+    font-weight: bold;
+}
